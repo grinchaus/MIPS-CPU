@@ -1,2 +1,0 @@
-# MIPS-CPU
-Hell0
